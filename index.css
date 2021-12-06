@@ -1,0 +1,12 @@
+.hide{
+    display: none;
+    
+}
+.show {
+    visibility:visible;
+   
+}
+
+.select{
+    width:300px;
+}
